@@ -12,7 +12,6 @@ body {
 h1,
 h2,
 h3 {
-  text-align: center;
   margin: 0;
 }
 
@@ -88,4 +87,8 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+}
+
+.text-center {
+  text-align: center !important;
 }
