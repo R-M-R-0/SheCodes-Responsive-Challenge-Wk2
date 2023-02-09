@@ -29,7 +29,6 @@ h3 {
 }
 
 p {
-  background: var(--secondary-color);
   padding: 20px;
   border-radius: 4px;
   font-size: 18px;
@@ -52,6 +51,11 @@ p {
 }
 
 .primary-link {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  margin: 20px;
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
@@ -60,6 +64,11 @@ p {
 .secondary-link {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
 }
 
 .homepage-link {
