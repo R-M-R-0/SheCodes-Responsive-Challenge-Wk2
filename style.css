@@ -33,21 +33,12 @@ p {
   border-radius: 4px;
   font-size: 18px;
   line-height: 1.5;
-  text-align: center;
 }
 
 .navigation-links {
   display: flex;
   margin-top: 40px;
   justify-content: center;
-}
-
-.navigation-links a {
-  margin: 20px;
-  border-radius: 4px;
-  padding: 20px 15px;
-  text-decoration: none;
-  text-transform: capitalize;
 }
 
 .primary-link {
@@ -82,10 +73,6 @@ p {
   margin: 30px 0;
 }
 
-.about-paragraphs p {
-  margin: 10px;
-}
-
 .email-link {
   display: flex;
   justify-content: center;
@@ -100,10 +87,6 @@ p {
 
 .text-center {
   text-align: center !important;
-}
-
-.white-background {
-  background-color: #fff !important;
 }
 
 .text-left {
